@@ -48,5 +48,4 @@ The report contains **two pages** with interactive visuals, KPIs, and slicers to
 ##  License
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and share this work, provided that proper credit is given.  
-## 🔗 Live Report (Optional)
-👉 [View Interactive Dashboard on Power BI Service](#) *(Add your published link if available)*  
+
